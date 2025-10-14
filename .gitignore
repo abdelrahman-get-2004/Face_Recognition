@@ -1,0 +1,24 @@
+# Ignore data and private folders
+data1/
+datasets/
+images/
+*.jpg
+*.jpeg
+*.png
+*.npy
+*.pkl
+*.dat
+*.csv
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+
+# macOS system files
+.DS_Store
