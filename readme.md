@@ -17,7 +17,7 @@ Face_Recognition/
 ## ⚙️ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/<yourusername>/Face_Recognition.git
+git clone https://github.com/abdelrahman-get-2004/Face_Recognition.git
 cd Face_Recognition
 
 
