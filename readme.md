@@ -1,7 +1,7 @@
 # 🧠 Face Recognition Project
 A simple facial recognition system built in Python using `face_recognition` and `OpenCV`.
 
-![Demo Result](Demo_result.png)
+![Demo_Result](Demo_result.png)
 This project implements a **facial recognition system** using Python and the `face_recognition` library.  
 It detects and identifies faces from known individuals stored in local folders.
 
